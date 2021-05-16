@@ -1,6 +1,10 @@
-Coursera Assignment 1
+# Coursera: Introduction to Embedded Systems Software and Developing Environments
 
-Course Name : Introduction to Embedded Systems Software and Architecture
-Author Name : Devika Nair
+## Course Name : Introduction to Embedded Systems Software and Architecture
+## University of Colorado Boulder
 
-Create a simple application that performs statistical analytics on a dataset.
+### Week 1  
+Wrote simple C code for an embedded platform (Create a simple application that performs statistical analytics on a dataset)
+
+See: stats.c, stats.h
+
